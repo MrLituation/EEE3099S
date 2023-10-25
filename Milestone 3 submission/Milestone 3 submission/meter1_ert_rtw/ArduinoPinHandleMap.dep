@@ -1,0 +1,8 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2023a/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ C:/Users/siyan/DOCUME~1/Life/UCT/2023/S_SEM2/EEE3099S/EEE3099S/MILEST~2/meter1_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2023a/extern/include/tmwtypes.h
+
+C:/Users/siyan/DOCUME~1/Life/UCT/2023/S_SEM2/EEE3099S/EEE3099S/MILEST~2/meter1_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2023a/extern/include/tmwtypes.h:
